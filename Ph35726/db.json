@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "truonghayho",
+      "price": 2000,
+      "image": "https://picsum.photos/200/200",
+      "description": "XỊn Xò con bò"
+    },
+    {
+      "name": "Trường1234",
+      "image": "https://picsum.photos/200/200",
+      "price": "10000000",
+      "description": "XỊn Xò con bò",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "truongha21062004@gmail.com",
+      "password": "$2a$10$bDY5UWZbT4qaSbCkUnfBJu7Jd3o51yUSXvoqOhlBvN4vyvs/c0.3K",
+      "id": 1
+    },
+    {
+      "email": "truong21062004@gmail.com",
+      "password": "$2a$10$3V2lkOMg9QLS6janxWjYCOgdXbrBAbsJHaBDFbjvDKCeQUu/oriX2",
+      "id": 2
+    }
+  ]
+}
